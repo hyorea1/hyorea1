@@ -19,9 +19,10 @@
       - Keyword Extraction 
       - Part of Speech tagging
   
-    **Computer Vision**   
-    - Image Classification 
-    - Object Detection
+    **Computer Vision**     
+  
+      - Image Classification   
+      - Object Detection  
 
 
 
