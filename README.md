@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+#### I'm studying on . . .  
+  
+- Python algorithm  
+- Machine learning 
+- Deep learning 
+    Natural Language Process
+      - Text Classification 
+      - Text Generation 
+      - Text Summarization 
+      - 
+
+
+
+    Computer Vision 
+    - 
+
+
+
 <!--
 **hyorea1/hyorea1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
