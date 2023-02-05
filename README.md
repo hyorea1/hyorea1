@@ -5,16 +5,24 @@
 - Python algorithm  
 - Machine learning 
 - Deep learning   
-    Natural Language Process  
+  
+    **Natural Language Process**
+   
+      - Speech-to-text
       - Text Classification   
       - Text Generation   
-      - Text Summarization   
-      - 
-
-
+      - Text Summarization  
+      - Question Answering
+      - Sentiment/Emotion Analysis
+      - Machine Translation 
+      - Topic Modeling 
+      - Keyword Extraction 
+      - Part of Speech tagging
   
-    Computer Vision 
-    - 
+    **Computer Vision**   
+    - Image Classification 
+    - Object Detection
+
 
 
 
