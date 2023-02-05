@@ -6,7 +6,7 @@
 - Machine learning 
 - Deep learning   
   
-    **Natural Language Process**
+    **Natural Language Processing**
    
       - Speech-to-text
       - Text Classification   
