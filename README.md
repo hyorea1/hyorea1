@@ -1,18 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-#### I'm studying on . . .  
+### I'm currently studying on . . .  
   
 - Python algorithm  
 - Machine learning 
-- Deep learning 
-    Natural Language Process
-      - Text Classification 
-      - Text Generation 
-      - Text Summarization 
+- Deep learning   
+    Natural Language Process  
+      - Text Classification   
+      - Text Generation   
+      - Text Summarization   
       - 
 
 
-
+  
     Computer Vision 
     - 
 
